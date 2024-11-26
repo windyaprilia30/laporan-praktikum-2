@@ -2,7 +2,8 @@ from collections import deque
 def simulasi_antrian():
     antrian = deque()
     while True:
-        print("\n 1. Tambah pelanggan ke antrian")
+        print("\n_simulasi antrian di restoran_")
+        print("1. Tambah pelanggan ke antrian")
         print("2. Layani pelanggan")
         print("3. Tampilkan antrian")
         print("4. Keluar")
